@@ -26,6 +26,8 @@ Es gibt zwei Wege, das Programm zu bekommen:
 #### 1. Für Endnutzer: Die fertige `.exe`-Datei
 
 * Lade die neueste Version der **`Papierkorb-Manager.exe`** von der [Releases-Seite](https://github.com/andylpz20025/Papierkorb-Manager/releases) herunter.
+* git clone [https://github.com/andylpz20025/Papierkorb-Manager.git](https://github.com/andylpz20025/Papierkorb-Manager.git)
+cd Papierkorb-Manager
 * Du musst nichts installieren. Führe die `.exe`-Datei einfach aus.
 
 #### 2. Für Entwickler: Über den Quellcode
