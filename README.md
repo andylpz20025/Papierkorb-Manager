@@ -1,10 +1,11 @@
 # Papierkorb-Manager
-Papierkorb-Manager
-# Papierkorb-Manager
 
 ![Python Version](https://img.shields.io/badge/Python-3.x-blue.svg) ![Windows Compatible](https://img.shields.io/badge/OS-Windows-green.svg)
+---
 
-Ein benutzerfreundlicher Windows-Papierkorb-Manager, erstellt mit Python und Tkinter. Das Tool bietet eine grafische Oberfläche, um den Papierkorb zu verwalten, Dateien und Ordner hinzuzufügen, wiederherzustellen oder zu löschen.
+### Beschreibung
+
+Ein benutzerfreundlicher Windows-Papierkorb-Manager, erstellt mit Python und Tkinter. Dieses Tool bietet eine grafische Oberfläche, um den Papierkorb zu verwalten, Dateien und Ordner hinzuzufügen, wiederherzustellen oder zu löschen.
 
 ### Funktionen
 
@@ -16,26 +17,25 @@ Ein benutzerfreundlicher Windows-Papierkorb-Manager, erstellt mit Python und Tki
 * **Sicheres Löschen:** Leere den gesamten Papierkorb mit einer Bestätigungsabfrage.
 * **Wiederherstellen:** Stelle ausgewählte Elemente mit einem Klick wieder her.
 
-
-
 ---
 
-### Installation und Nutzung (für Endnutzer)
+### Installation und Nutzung
 
-Wenn du das Programm einfach nur verwenden möchtest, folge diesen Schritten:
+Es gibt zwei Wege, das Programm zu bekommen:
 
-1.  Lade die neueste Version der **`Papierkorb-Manager.exe`** von der [Releases-Seite](https://github.com/[Dein-Benutzername]/[Dein-Repository-Name]/releases) deines Projekts herunter.
-2.  Du musst nichts installieren. Führe die `.exe`-Datei einfach aus.
+#### 1. Für Endnutzer: Die fertige `.exe`-Datei
 
----
+* Lade die neueste Version der **`Papierkorb-Manager.exe`** von der [Releases-Seite](https://github.com/andylpz20025/Papierkorb-Manager/releases) herunter.
+* Du musst nichts installieren. Führe die `.exe`-Datei einfach aus.
 
-### Verwendung (für Entwickler)
+#### 2. Für Entwickler: Über den Quellcode
 
-Wenn du das Programm aus dem Quellcode ausführen möchtest, benötigst du **Python 3.x**.
+Du kannst das gesamte Repository mit Git klonen, um den Quellcode zu erhalten und daran zu arbeiten.
 
 1.  **Repository klonen:**
+    Öffne dein Terminal (CMD) und führe den folgenden Befehl aus, um das gesamte Projekt herunterzuladen:
     ```bash
-    git clone [https://github.com/](https://github.com/)[Dein-Benutzername]/[Dein-Repository-Name].git
+    git clone [https://github.com/andylpz20025/Papierkorb-Manager.git](https://github.com/andylpz20025/Papierkorb-Manager.git)
     cd Papierkorb-Manager
     ```
 
