@@ -1,0 +1,2 @@
+# Papierkorb-Manager
+Papierkorb-Manager
